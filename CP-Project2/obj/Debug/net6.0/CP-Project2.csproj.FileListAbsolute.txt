@@ -1,0 +1,60 @@
+D:\Documents\Fanshawe\Declarative Languages\Project 2\CP-Project2\CP-Project2\obj\Debug\net6.0\CP-Project2.csproj.AssemblyReference.cache
+D:\Documents\Fanshawe\Declarative Languages\Project 2\CP-Project2\CP-Project2\obj\Debug\net6.0\CP-Project2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Fanshawe\Declarative Languages\Project 2\CP-Project2\CP-Project2\obj\Debug\net6.0\CP-Project2.AssemblyInfoInputs.cache
+D:\Documents\Fanshawe\Declarative Languages\Project 2\CP-Project2\CP-Project2\obj\Debug\net6.0\CP-Project2.AssemblyInfo.cs
+D:\Documents\Fanshawe\Declarative Languages\Project 2\CP-Project2\CP-Project2\obj\Debug\net6.0\CP-Project2.csproj.CoreCompileInputs.cache
+D:\Documents\Fanshawe\Declarative Languages\Project 2\CP-Project2\CP-Project2\bin\Debug\net6.0\CP-Project2.exe
+D:\Documents\Fanshawe\Declarative Languages\Project 2\CP-Project2\CP-Project2\bin\Debug\net6.0\CP-Project2.deps.json
+D:\Documents\Fanshawe\Declarative Languages\Project 2\CP-Project2\CP-Project2\bin\Debug\net6.0\CP-Project2.runtimeconfig.json
+D:\Documents\Fanshawe\Declarative Languages\Project 2\CP-Project2\CP-Project2\bin\Debug\net6.0\CP-Project2.dll
+D:\Documents\Fanshawe\Declarative Languages\Project 2\CP-Project2\CP-Project2\bin\Debug\net6.0\CP-Project2.pdb
+D:\Documents\Fanshawe\Declarative Languages\Project 2\CP-Project2\CP-Project2\obj\Debug\net6.0\CP-Project2.dll
+D:\Documents\Fanshawe\Declarative Languages\Project 2\CP-Project2\CP-Project2\obj\Debug\net6.0\refint\CP-Project2.dll
+D:\Documents\Fanshawe\Declarative Languages\Project 2\CP-Project2\CP-Project2\obj\Debug\net6.0\CP-Project2.pdb
+D:\Documents\Fanshawe\Declarative Languages\Project 2\CP-Project2\CP-Project2\obj\Debug\net6.0\CP-Project2.genruntimeconfig.cache
+D:\Documents\Fanshawe\Declarative Languages\Project 2\CP-Project2\CP-Project2\obj\Debug\net6.0\ref\CP-Project2.dll
+D:\Documents\Fanshawe\Declarative Languages\Project 2\CP-Project2\obj\Debug\net6.0\CP-Project2.csproj.AssemblyReference.cache
+D:\Documents\Fanshawe\Declarative Languages\Project 2\CP-Project2\obj\Debug\net6.0\CP-Project2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Fanshawe\Declarative Languages\Project 2\CP-Project2\obj\Debug\net6.0\CP-Project2.AssemblyInfoInputs.cache
+D:\Documents\Fanshawe\Declarative Languages\Project 2\CP-Project2\obj\Debug\net6.0\CP-Project2.AssemblyInfo.cs
+D:\Documents\Fanshawe\Declarative Languages\Project 2\CP-Project2\obj\Debug\net6.0\CP-Project2.csproj.CoreCompileInputs.cache
+D:\Documents\Fanshawe\Declarative Languages\Project 2\CP-Project2\obj\Debug\net6.0\CP-Project2.dll
+D:\Documents\Fanshawe\Declarative Languages\Project 2\CP-Project2\obj\Debug\net6.0\refint\CP-Project2.dll
+D:\Documents\Fanshawe\Declarative Languages\Project 2\CP-Project2\obj\Debug\net6.0\CP-Project2.pdb
+D:\Documents\Fanshawe\Declarative Languages\Project 2\CP-Project2\bin\Debug\net6.0\CP-Project2.exe
+D:\Documents\Fanshawe\Declarative Languages\Project 2\CP-Project2\bin\Debug\net6.0\CP-Project2.deps.json
+D:\Documents\Fanshawe\Declarative Languages\Project 2\CP-Project2\bin\Debug\net6.0\CP-Project2.runtimeconfig.json
+D:\Documents\Fanshawe\Declarative Languages\Project 2\CP-Project2\bin\Debug\net6.0\CP-Project2.dll
+D:\Documents\Fanshawe\Declarative Languages\Project 2\CP-Project2\bin\Debug\net6.0\CP-Project2.pdb
+D:\Documents\Fanshawe\Declarative Languages\Project 2\CP-Project2\obj\Debug\net6.0\CP-Project2.genruntimeconfig.cache
+D:\Documents\Fanshawe\Declarative Languages\Project 2\CP-Project2\obj\Debug\net6.0\ref\CP-Project2.dll
+F:\Fanshawe\Summer 2022\Declarative Languages\Project 2\CP-Project2\bin\Debug\net6.0\CP-Project2.exe
+F:\Fanshawe\Summer 2022\Declarative Languages\Project 2\CP-Project2\bin\Debug\net6.0\CP-Project2.deps.json
+F:\Fanshawe\Summer 2022\Declarative Languages\Project 2\CP-Project2\bin\Debug\net6.0\CP-Project2.runtimeconfig.json
+F:\Fanshawe\Summer 2022\Declarative Languages\Project 2\CP-Project2\bin\Debug\net6.0\CP-Project2.dll
+F:\Fanshawe\Summer 2022\Declarative Languages\Project 2\CP-Project2\bin\Debug\net6.0\CP-Project2.pdb
+F:\Fanshawe\Summer 2022\Declarative Languages\Project 2\CP-Project2\obj\Debug\net6.0\CP-Project2.csproj.AssemblyReference.cache
+F:\Fanshawe\Summer 2022\Declarative Languages\Project 2\CP-Project2\obj\Debug\net6.0\CP-Project2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Fanshawe\Summer 2022\Declarative Languages\Project 2\CP-Project2\obj\Debug\net6.0\CP-Project2.AssemblyInfoInputs.cache
+F:\Fanshawe\Summer 2022\Declarative Languages\Project 2\CP-Project2\obj\Debug\net6.0\CP-Project2.AssemblyInfo.cs
+F:\Fanshawe\Summer 2022\Declarative Languages\Project 2\CP-Project2\obj\Debug\net6.0\CP-Project2.csproj.CoreCompileInputs.cache
+F:\Fanshawe\Summer 2022\Declarative Languages\Project 2\CP-Project2\obj\Debug\net6.0\CP-Project2.dll
+F:\Fanshawe\Summer 2022\Declarative Languages\Project 2\CP-Project2\obj\Debug\net6.0\refint\CP-Project2.dll
+F:\Fanshawe\Summer 2022\Declarative Languages\Project 2\CP-Project2\obj\Debug\net6.0\CP-Project2.pdb
+F:\Fanshawe\Summer 2022\Declarative Languages\Project 2\CP-Project2\obj\Debug\net6.0\CP-Project2.genruntimeconfig.cache
+F:\Fanshawe\Summer 2022\Declarative Languages\Project 2\CP-Project2\obj\Debug\net6.0\ref\CP-Project2.dll
+F:\Fanshawe\Summer 2022\Declarative Languages\CensusMetricApp\CP-Project2\bin\Debug\net6.0\CP-Project2.exe
+F:\Fanshawe\Summer 2022\Declarative Languages\CensusMetricApp\CP-Project2\bin\Debug\net6.0\CP-Project2.deps.json
+F:\Fanshawe\Summer 2022\Declarative Languages\CensusMetricApp\CP-Project2\bin\Debug\net6.0\CP-Project2.runtimeconfig.json
+F:\Fanshawe\Summer 2022\Declarative Languages\CensusMetricApp\CP-Project2\bin\Debug\net6.0\CP-Project2.dll
+F:\Fanshawe\Summer 2022\Declarative Languages\CensusMetricApp\CP-Project2\bin\Debug\net6.0\CP-Project2.pdb
+F:\Fanshawe\Summer 2022\Declarative Languages\CensusMetricApp\CP-Project2\obj\Debug\net6.0\CP-Project2.csproj.AssemblyReference.cache
+F:\Fanshawe\Summer 2022\Declarative Languages\CensusMetricApp\CP-Project2\obj\Debug\net6.0\CP-Project2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Fanshawe\Summer 2022\Declarative Languages\CensusMetricApp\CP-Project2\obj\Debug\net6.0\CP-Project2.AssemblyInfoInputs.cache
+F:\Fanshawe\Summer 2022\Declarative Languages\CensusMetricApp\CP-Project2\obj\Debug\net6.0\CP-Project2.AssemblyInfo.cs
+F:\Fanshawe\Summer 2022\Declarative Languages\CensusMetricApp\CP-Project2\obj\Debug\net6.0\CP-Project2.csproj.CoreCompileInputs.cache
+F:\Fanshawe\Summer 2022\Declarative Languages\CensusMetricApp\CP-Project2\obj\Debug\net6.0\CP-Project2.dll
+F:\Fanshawe\Summer 2022\Declarative Languages\CensusMetricApp\CP-Project2\obj\Debug\net6.0\refint\CP-Project2.dll
+F:\Fanshawe\Summer 2022\Declarative Languages\CensusMetricApp\CP-Project2\obj\Debug\net6.0\CP-Project2.pdb
+F:\Fanshawe\Summer 2022\Declarative Languages\CensusMetricApp\CP-Project2\obj\Debug\net6.0\CP-Project2.genruntimeconfig.cache
+F:\Fanshawe\Summer 2022\Declarative Languages\CensusMetricApp\CP-Project2\obj\Debug\net6.0\ref\CP-Project2.dll
